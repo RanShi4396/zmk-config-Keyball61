@@ -59,7 +59,7 @@ layers:
   - FUN
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: '$$mdi:backspace$$', h: SYM}
+  - SYM
   - $$mdi:apple-keyboard-option$$
   - $$mdi:backspace-reverse-outline$$
   SYM:
